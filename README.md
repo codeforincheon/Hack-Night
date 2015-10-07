@@ -26,8 +26,8 @@ CODE FOR ('코드포') 커뮤니티는 지역사회 발전을 위해 모인 시�
 매주 야심한 저녁에 다같이 모여 도시를 해킹하는 핵나잇 모임을 엽니다. 
 장소와 시간은 자주 변경되기 때문에 [MeetUp](www.meetup.com/Civic-Hackers-Incheon/)에 가입해 두시면 매주 공지로 전달됩니다. 
 
-요즘은: 매주 수요일 20:00 Cafe Urban 3-23 (3-23 Songdo-dong, Yeonsu-gu, Incheon, South Korea)
-
+요즘은 어디서: 매주 수요일 20:00 Cafe Urban 3-23 (3-23 Songdo-dong, Yeonsu-gu, Incheon, South Korea)
+무슨 이야기를: [핵나잇 회의록](https://github.com/codeforincheon/Hack-Night/wiki)
 
 ##관련링크
 [Code For Seoul Slack](https://codeforseoul.slack.com/messages/general/)
